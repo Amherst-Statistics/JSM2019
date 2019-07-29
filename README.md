@@ -3,7 +3,7 @@ JSM2019 talks and related resources
 
 # Communicating to the Masses: Sharing Statistics and Data Science in a World of Sound Bites, Social Media, and Popular Press — Invited Papers
 
-Wed, 7/31/2019, 8:30 AM - 10:20 AM	
+Wed, 7/31/2019, 8:30 AM - 10:20 AM, CC-707
 
 Section on Statistical Education
 
