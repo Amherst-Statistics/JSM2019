@@ -11,7 +11,7 @@ Organizer(s): Jennifer L Green, Montana State University
 
 Chair(s): Erin E Blankenship, University of Nebraska-Lincoln
 
-8:35 AM	**Writing for Newspapers, Magazines, Comics and More: Making a Real Impact on the Broadest Audience**:
+8:35 AM	**Writing for Newspapers, Magazines, Comics and More: Making a Real Impact on the Broadest Audience** ([slides](nuzzo.pdf)):
 Regina Nuzzo, American Statistical Association
 
 9:00 AM	**The Art of Storytelling: Engaging Audiences with Podcasts and Curiosity Cafes** ([slides](green.pdf)):
